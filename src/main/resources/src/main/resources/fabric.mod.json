@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "onehitmod",
+  "version": "1.0.0",
+  "name": "One Hit Mod",
+  "entrypoints": {
+    "main": [
+      "com.tuusuario.onehitmod.OneHitMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.24"
+  }
+}
